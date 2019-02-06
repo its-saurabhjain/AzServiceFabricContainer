@@ -1,0 +1,12 @@
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll.config
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\bin\Debug\EntityFramework.xml
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csprojAssemblyReference.cache
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CoreCompileInputs.cache
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CopyComplete
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb

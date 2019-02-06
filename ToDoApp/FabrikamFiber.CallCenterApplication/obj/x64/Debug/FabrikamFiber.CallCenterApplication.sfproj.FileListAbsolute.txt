@@ -1,0 +1,1 @@
+C:\Cloud\Azure\ServiceFabric\fabrikam\ToDoApp\FabrikamFiber.CallCenterApplication\obj\x64\Debug\FabrikamFiber.CallCenterApplication.sfproj.CoreCompileInputs.cache
