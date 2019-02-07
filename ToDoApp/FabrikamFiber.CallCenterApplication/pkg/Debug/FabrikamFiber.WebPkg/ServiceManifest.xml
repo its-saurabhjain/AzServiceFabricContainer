@@ -10,7 +10,7 @@
     <EntryPoint>
       <!-- Follow this link for more information about deploying Windows containers to Service Fabric: https://aka.ms/sfguestcontainers -->
       <ContainerHost>
-        <ImageName>fabrikamregistry2038013344.azurecr.io/fabrikamfiber.web:dev@sha256:7905858a340d645cf20411ed2c23d9841a1f8060fa64120293ed44d5a29a4af0</ImageName>
+        <ImageName>fabrikamregistry1150319886.azurecr.io/fabrikamfiber.web:dev@sha256:6166c96ae09d7980fa098158933ef0a341af5f35b315ff5ad113cb0cb56bb7a3</ImageName>
       </ContainerHost>
     </EntryPoint>
     <!-- Pass environment variables to your container: -->

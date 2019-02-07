@@ -20,8 +20,8 @@
                                     AzureActiveDirectory="true"
                                     ServerCertThumbprint="0123456789012345678901234567890123456789" />
   -->
-  <ClusterConnectionParameters ConnectionEndpoint="callcenterapplication.northcentralus.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="9BAD5F039641786C823389A9FC7DEFD22236F031" FindType="FindByThumbprint" FindValue="9BAD5F039641786C823389A9FC7DEFD22236F031" StoreLocation="CurrentUser" StoreName="My"/>
+  <ClusterConnectionParameters ConnectionEndpoint="callcenterapplication.northcentralus.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="7F8A8B455D564136602F9CF1EABE1896411932AD" FindType="FindByThumbprint" FindValue="7F8A8B455D564136602F9CF1EABE1896411932AD" StoreLocation="CurrentUser" StoreName="My"/>
   <ApplicationParameterFile Path="..\ApplicationParameters\Cloud.xml" />
   <CopyPackageParameters CompressPackage="true" />
-  <ContainerRegistryParameters Server="fabrikamregistry2038013344.azurecr.io" RegistryName="fabrikamregistry2038013344" UserName="fabrikamregistry2038013344" />
+  <ContainerRegistryParameters Server="fabrikamregistry1150319886.azurecr.io" RegistryName="fabrikamregistry1150319886" UserName="fabrikamregistry1150319886" />
 </PublishProfile>

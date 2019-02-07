@@ -1,7 +1,7 @@
 # Create a virtual network service endpoint
 $clusterresourcegroup = "callcenterapplication-rg"
 $dbresourcegroupname = "fabrikam-fiber-db-group"
-$servername = "fab-fiber-1287587798"
+$servername = "fab-fiber-731028136"  	
 #$clusterresourcegroup = "<cluster resource group>"
 $resource = Get-AzResource -ResourceGroupName $clusterresourcegroup -ResourceType Microsoft.Network/virtualNetworks | Select-Object -first 1
 $vnetName = $resource.Name
